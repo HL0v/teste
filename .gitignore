@@ -1,0 +1,7 @@
+venv/
+apikeys.txt
+Quant_Expert/
+oldlogs.txt
+.vscode/
+__pycache__/
+apikeys.py
