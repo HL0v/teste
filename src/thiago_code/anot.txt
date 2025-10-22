@@ -1,0 +1,82 @@
+
+           
+            #'FUT SJC': 'Futuro de soja na B3',
+            #'CME':'CME Group', 
+            #'NYSE':'NYSE indice composto', 
+            #'B3':'Bolsa B3', 
+            #'ADM':'Archer Daniels Midland', 
+            #'CARG':'Cargill', 
+            #'Bunge':'Bunge', 
+            #'LDC':'Louis Dreyfus', 
+            #'Amaggi':'Amaggi', 
+            #'SLCE3':'SLC Agrícola', 
+            #'BrasilAgro':'BrasilAgro', 
+            #'Viterra':'Viterra', 
+            #'COFCO':'COFCO International', 
+            #'SYENF':'Syngenta', 
+            #'BAYN':'Bayer', 
+            #'BASFn':'BASF SE', 
+            #'MOSC34':'Mosaic', 
+            #'NTR':'Nutrien',
+            #'ILPF':'relacao de preco soja e boi',
+            #'AGRO3':'BrasilAgro',
+#
+#
+            #
+            #'Estados Unidos' : 'exportador', 
+            #'Paraguai' : 'exportador', 
+            #'Canadá' : 'exportador', 
+            #'Argentina' : 'exportador', 
+            #'Uruguai' : 'exportador', 
+            #'Ucrânia' : 'exportador', 
+            #'Rússia' : 'exportador', 
+            #'Bolívia' : 'exportador', 
+            #'África do Sul' : 'exportador', 
+            #'Romênia' : 'exportador', 
+            #'Croácia' : 'exportador', 
+            #'França' : 'exportador', 
+            #'Hungria' : 'exportador', 
+            #'Turquia' : 'exportador',
+#
+            #'China' : 'importador', 
+            #'União Europeia' : 'importador', 
+            #'Egito' : 'importador', 'México' : 
+            #'importador', 'Japão' : 'importador', 
+            #'Alemanha' : 'importador', 
+            #'Espanha' : 'importador', 
+            #'Turquia' : 'importador', 
+            #'Tailândia' : 'importador', 
+            #'Irã' : 'importador', 
+            #'Países Baixos' : 'importador', 
+            #'Indonésia' : 'importador', 
+            #'Itália' : 'importador', 
+            #'Vietnã' : 'importador',
+            #'Paquistão' : 'importador'
+
+
+
+
+/////////////////////////////////////////////////////
+
+    # 'biodiesel',
+    #  'biocombustíveis', 'estoques',
+    #  'produção', 'consumo',
+    #  'preço', 'preços',
+    # 'dólar', 'câmbio',
+    #'fundos de investimento', 'bolsa de Chicago',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+descosniderar sentimento neutro, 1 pra positivo, 0 pra neutro
